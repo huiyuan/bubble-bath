@@ -1,4 +1,4 @@
-# Bubble-bath
+# Bubble-bath readme
 
 This README outlines the details of collaborating on this Ember addon.
 
